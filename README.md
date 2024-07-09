@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ankur Bhadauria</h1>
-<h3 align="center">A passionate Backend && Frontend developer from India</h3>
+<h1 align="center">Hello Folks!, I am  Ankur Bhadauria👋</h1>
+<h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankurbhadauria&label=Profile%20views&color=0e75b6&style=flat" alt="ankurbhadauria" /> </p>
 
